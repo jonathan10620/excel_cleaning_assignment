@@ -1,0 +1,24 @@
+9,	Self Pay		
+10,	Central Cert		
+11,	Other Non Federal		
+12,	PPO		
+13,	POS		
+14,	EPO		
+15,	Indemnity Insurance		
+16,	HMO		
+AM,	Automedical Insurance		
+BL,	BC/BS		
+CH,	CHAMPUS		
+CI,	Commercial Insurance		
+DS,	Disability		
+HM,	HMO		
+LI,	Liability		
+LM,	Liability Medical		
+MA,	Medicare Part A		
+MB,	Medicare Part B		
+MC,	Medicaid		
+TV,	Title V		
+OF,	Other Federal		
+VA,	Veterans		
+WC,	Workers Comp		
+ZZ,	Charity-Indigent-UK

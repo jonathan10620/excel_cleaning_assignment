@@ -1,0 +1,46 @@
+SAME:
+{'City': 'Austin'}
+{'PAT_STATE': 'TX'}
+{'PAT_COUNTRY': 'US'}
+{'County': 'Travis '}
+{'PAT_STATUS': 1}
+{'Sex': 'F'}
+{'Race_Desc': 'White'}
+{'ETHNICITY': 2}
+{'LENGTH_OF_STAY': 3}
+{'TOTAL_CHARGES_ACCOMM': 8578.32}
+{'PRINC_SURG_PROC_CODE': '10E0XZZ'}
+{'MS_MDC': 14}
+{'MS_DRG': 807}
+{'APR_MDC': 14}
+{'APR_DRG': 560}
+{'RISK_MORTALITY': 1}
+{'ILLNESS_SEVERITY': 1}
+{'PROVIDER_NAME': 'Texas Memorial'}
+{'EMERGENCY_DEPT_FLAG': 'N'}
+
+DIFFERENT:
+{'RECORD_ID': 788619}
+{'First_Name': 'Nancy'}
+{'Mid_Init': 'C'}
+{'Last_Name': 'Butler'}
+{'Address': '20 Burwell Heights Road'}
+{'PAT_ZIP': 78752}
+{'Marital_Status': 'Married'}
+{'Admit_Date': datetime.datetime(2020, 2, 1, 0, 0)}
+{'DC_Date': datetime.datetime(2020, 2, 4, 0, 0)}
+{'Age': 35}
+{'FIRST_PAYMENT_SRC': 'OF'}
+{'TOTAL_CHARGES': 38806.88}
+{'TOTAL_CHARGES_ANCIL': 30228.56}
+{'PRINC_DIAG_CODE': 'O701'}
+{'POA_PRINC_DIAG_CODE': 'N'}
+{'OTH_DIAG_CODE_1': 'O09523'}
+{'Attending_MD': 'Rowe'}
+{'OPERATING_PHYSICIAN_UNIF_ID': 'Woods'}
+{'Height': '5\' 8"'}
+{'Ht Inches': '=IFERROR(LEFT(AT2,1)*12+IF(LEN(AT2)=5,MID(AT2,4,1),MID(AT2,4,2)),0)'}
+{'Weight': 190.3}
+{'Height(Cm)': '=AU2*2.54'}
+{'BMI': '=703 * AU2/(SQRT(AW2))'}
+{'HeartRate': 69}

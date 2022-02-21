@@ -1,0 +1,113 @@
+Acute Flaccid Myelitis (AFM)        
+Anaplasmosis    
+Anthrax      
+Babesiosis       
+Botulism   
+Brucellosis      
+Campylobacteriosis       
+Carbapenem-resistant Infection (CRE/CRPA)        
+Chancroid   
+Chikungunya Virus Infection (Chikungunya)   
+Chlamydia    
+Ciguatera (Harmful Algae Blooms (HABs))      
+Clostridium Difficile Infection   
+Clostridium Perfringens (Epsilon Toxin)      
+Coccidioidomycosis fungal infection (Valley fever)   
+COVID-19 (Coronavirus Disease 2019)      
+COVID-19 (Coronavirus Disease 2019)      
+Creutzfeldt-Jacob Disease, transmissible spongiform encephalopathy (CJD)   
+Cryptosporidiosis (Crypto)       
+Cyclosporiasis      
+Dengue, 1,2,3,4 (Dengue Fever)      
+Diphtheria   
+E. coli infection, Shiga toxin-producing (STEC)       
+Eastern Equine Encephalitis (EEE)    
+Ebola Hemorrhagic Fever (Ebola)        
+Ehrlichiosis       
+Encephalitis, Arboviral or parainfectious   
+Enterovirus Infection , Non-Polio (Non-Polio Enterovirus)   
+Enterovirus Infection , D68 (EV-D68)      
+Giardiasis (Giardia)       
+Glanders      
+Gonococcal Infection (Gonorrhea)       
+Granuloma inguinale   
+Haemophilus Influenza disease, Type B (Hib or H-flu)    
+Hantavirus Pulmonary Syndrome (HPS)   
+Hemolytic Uremic Syndrome (HUS)      
+Hepatitis A (Hep A)         
+Hepatitis B (Hep B)        
+Hepatitis C (Hep C)        
+Hepatitis D (Hep D)      
+Hepatitis E (Hep E)      
+Herpes      
+Herpes Zoster, zoster VZV (Shingles)      
+Histoplasmosis infection (Histoplasmosis)   
+Human Immunodeficiency Virus/AIDS (HIV/AIDS)       
+Human Papillomavirus (HPV)      
+Influenza (Flu)      
+Lead Poisoning
+Legionellosis (Legionnaires Disease)    
+Leprosy (Hansens Disease)   
+Leptospirosis      
+Listeriosis (Listeria)    
+Lyme Disease    
+Lymphogranuloma venereum infection (LGV)   
+Malaria       
+Measles         
+Melioidosis   
+Meningitis, Viral (Meningitis, viral)   
+Meningococcal Disease , Bacterial (Meningitis, bacterial)      
+Middle East Respiratory Syndrome Coronavirus (MERS-CoV)      
+Multisystem Inflammatory Syndrome in Children (MIS-C)   
+Mumps      
+Norovirus       
+Paralytic Shellfish Poisoning (Paralytic Shellfish Poisoning, Ciguatera)   
+Pediculosis (Lice, Head and Body Lice)        
+Pelvic Inflammatory Disease (PID)      
+Pertussis (Whooping Cough)       
+Plague; Bubonic, Septicemic, Pneumonic (Plague)      
+Pneumococcal Disease (Pneumonia)       
+Poliomyelitis (Polio)   
+Powassan      
+Psittacosis (Parrot Fever)   
+Pthiriasis (Crabs; Pubic Lice Infestation)   
+Pustular Rash diseases (Small pox, monkeypox, cowpox)
+Q-Fever      
+Rabies      
+Ricin Poisoning      
+Rickettsiosis (Rocky Mountain Spotted Fever)      
+Rubella, Including congenital (German Measles)      
+Salmonellosis gastroenteritis (Salmonella)       
+Scabies Infestation (Scabies)        
+Scombroid
+Sepsis
+Septic Shock (Sepsis)   
+Severe Acute Respiratory Syndrome (SARS)      
+Shigellosis gastroenteritis (Shigella)       
+Smallpox      
+Staphyloccal Infection , Methicillin-resistant (MRSA)    
+Staphylococcal Food Poisoning, Enterotoxin - B Poisoning (Staph Food Poisoning)   
+Staphylococcal Infection, Vancomycin Intermediate (VISA)   
+Staphylococcal Infection, Vancomycin Resistant (VRSA)   
+Streptococcal Disease , Group A (invasive) (Strep A (invasive))       
+Streptococcal Disease, Group B (Strep-B)       
+Streptococcal Toxic-Shock Syndrome, STSS, Toxic Shock (STSS, TSS)
+Syphilis , primary, secondary, early latent, late latent, congenital
+Tetanus Infection, tetani (Lock Jaw)      
+Trichomoniasis (Trichomonas infection)      
+Trichonosis Infection (Trichinosis)      
+Tuberculosis (TB)       
+Tuberculosis (Latent) (LTBI)
+Tularemia (Rabbit fever)      
+Typhoid Fever, Group D      
+Typhus
+Vaginosis , bacterial (Yeast Infection)      
+Vaping-Associated Lung Injury (e-Cigarette Associated Lung Injury)   
+Varicella (Chickenpox)         
+Vibrio cholerae (Cholera)      
+Vibriosis (Vibrio)      
+Viral Hemorrhagic Fever (Ebola, Lassa, Marburg)   
+West Nile Virus
+Yellow Fever
+Yersenia (Yersinia)
+Zika Virus Infection (Zika)

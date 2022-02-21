@@ -1,0 +1,36 @@
+1,	DC Home		
+2,	DC other short term fac		
+3,	DC to SNF		
+4,	DC to Intermediate care		
+5,	DC to cancer center		
+6,	DC to home health		
+7,	Left AMA		
+8,	DC Home IV provider		
+9,	Admitted to this hospital		
+20,	Expired		
+21,	DC to Law Enforcement		
+30,	Still patient		
+40,	Expired at home		
+41,	Expired at med. Facility		
+42,	Expired place unknown		
+43,	DC to federal health fac		
+50,	DC to hospice-home		
+51,	DC to hospice-med fac		
+61,	DC within this fac to Medicare bed		
+62,	DC to rehab fac		
+63,	DC to Medicare long term fac		
+64,	DC to Medicaid Nursing Fac		
+65,	DC to psych fac		
+66,	DC to CAH		
+69,	DC to disaster alt care		
+70,	DC to other HC institution		
+71,	DC to outpatient service		
+72,	DC to institution OP		
+81,	DC to homecare with planned readmit		
+82,	DC to short term hosp with planned readmit		
+83,	DC to SNF with planned readmit		
+84,	DC to supportive care with planned readmit		
+85,	DC other  		
+94,	DC other  		
+95,	DC other  			
+48,	Expired		
